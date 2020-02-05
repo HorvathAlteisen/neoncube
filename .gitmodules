@@ -1,0 +1,9 @@
+[submodule "vendor/zlib"]
+	path = vendor/zlib
+	url = https://github.com/madler/zlib
+[submodule "vendor/unrar"]
+	path = vendor/unrar
+	url = https://github.com/pmachapman/unrar
+[submodule "vendor/libgrf"]
+	path = vendor/libgrf
+	url = https://github.com/gorockn/grf
